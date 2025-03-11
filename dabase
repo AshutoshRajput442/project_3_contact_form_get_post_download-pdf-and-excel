@@ -1,0 +1,4 @@
+id int AI PK 
+name varchar(255) 
+email varchar(255) 
+created_at timestamp
